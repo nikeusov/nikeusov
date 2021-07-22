@@ -6,6 +6,9 @@ ___
 - 💬 My [CV](https://nikeusov.github.io/rsschool-cv 'Nikes`s CV')  
 <img height="170em" align="left" alt="Github Lnguages" src="https://github-readme-codewars-stats.herokuapp.com/api/?username=nikeusov&card&colormode=dark_mode" />  
 
+<!--![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=nikeusov&theme=algolia&layout=compact)
+# -->
+
 <!--
 - 💬 
 - 👯 I’m looking to collaborate on ...
